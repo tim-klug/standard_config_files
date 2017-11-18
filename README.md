@@ -1,2 +1,3 @@
-# standard_config_files
-This repo contains some of my standard config files, so I will not loose them.
+# My Standard Config Files
+
+May this repo give my config files a home, where I will everytime find them.
